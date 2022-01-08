@@ -322,7 +322,7 @@ a:focus {
 
 .tm-contact-item-link i,
 .tm-contact-item-link span {
-  color: white;
+  color: rgb(0 123 255 / 50%);
   transition: all 0.3s ease;
 }
 

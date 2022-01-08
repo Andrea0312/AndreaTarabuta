@@ -317,6 +317,7 @@ a:focus {
 .tm-contact-item-link {
   display: flex;
   align-items: center;
+  margin-bottom: 15%;
 }
 
 .tm-contact-item-link i,
@@ -510,7 +511,7 @@ p {
 
 }
 
-.buttons i{
+.buttons a{
 	text-decoration: none;
 	font-size:28px;
 	width: 60px;
@@ -524,7 +525,7 @@ p {
 	transition: all .4s ease-in-out;
 }
 
-.buttons i:hover{
+.buttons a:hover{
 	transform: scale(1.2);
 }
 
